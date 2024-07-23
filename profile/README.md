@@ -1,8 +1,3 @@
 ## Hi there 👋
 
-<!--
-Breadcrumbs:
-
-🛠️ Project Status: In Progress
-
--->
+### 🛠️ Project Status: In Progress
